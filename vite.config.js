@@ -3,5 +3,5 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base: "https://darkimpulsepoint.github.io/cv",
+  base: "https://github.com/darkimpulsepoint/cv",
 });
